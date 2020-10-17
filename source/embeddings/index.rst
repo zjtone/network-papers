@@ -6,21 +6,33 @@
 | 下方将介绍一些图嵌入、图表示学习方法。
 
 .. toctree::
-    :maxdepth: 2
-    :numbered: 2
+   :maxdepth: 2
+   :caption: 基础介绍:
 
-    link_prediction
-    Articles
-    DeepWalk
-    node2vec
-    LINE
-    GraphSAGE
-    Graph_inference_learning_for_semi_supervised_classification
-    Curvature_neural_network
-    Topology_Optimization_based_Graph_Convolutional_Network
-    Attributed_Graph_Clustering_A_Deep_Attentional_Embedding_Approach
-    Attributed_Graph_Clustering_via_Adaptive_Graph_Convolution
-    DropEdge
-    Link_Prediction_Based_on_Graph_Neural_Networks
-    Graph_Neural_Networks_with_Composite_Kernels
-    .. Graph_Homomorphism_Convolution
+   link_prediction
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 基于结构的embedding算法:
+   DeepWalk
+   node2vec
+   LINE
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 学习特征的embedding算法:
+   GraphSAGE
+   Graph_inference_learning_for_semi_supervised_classification
+   Curvature_neural_network
+   Topology_Optimization_based_Graph_Convolutional_Network
+   Attributed_Graph_Clustering_A_Deep_Attentional_Embedding_Approach
+   Attributed_Graph_Clustering_via_Adaptive_Graph_Convolution
+   DropEdge
+   Link_Prediction_Based_on_Graph_Neural_Networks
+   Graph_Neural_Networks_with_Composite_Kernels
+   .. Graph_Homomorphism_Convolution
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 更多:
+   Articles
