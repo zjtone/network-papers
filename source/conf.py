@@ -16,6 +16,9 @@
 
 
 # -- Project information -----------------------------------------------------
+import sphinx_rtd_theme
+html_theme = "sphinx_rtd_theme"
+html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
 project = 'network-papers'
 copyright = '2020, people'
