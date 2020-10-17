@@ -20,7 +20,7 @@
 project = 'network-papers'
 copyright = '2020, people'
 author = 'people'
-
+master_doc = 'index'
 
 # -- General configuration ---------------------------------------------------
 
