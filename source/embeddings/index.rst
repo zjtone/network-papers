@@ -7,20 +7,22 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: 基础介绍:
+   :caption: Part 1
 
    link_prediction
 
 .. toctree::
    :maxdepth: 2
-   :caption: 基于结构的embedding算法:
+   :caption: Part 2
+
    DeepWalk
    node2vec
    LINE
 
 .. toctree::
    :maxdepth: 2
-   :caption: 学习特征的embedding算法:
+   :caption: Part 3
+
    GraphSAGE
    Graph_inference_learning_for_semi_supervised_classification
    Curvature_neural_network
@@ -34,5 +36,6 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: 更多:
+   :caption: Part 4
+
    Articles
