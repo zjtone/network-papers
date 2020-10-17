@@ -3,18 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to network-papers's documentation!
+欢迎来到复杂网络小组的入门论文列表。
 ==========================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :glob:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   embeddings/index
