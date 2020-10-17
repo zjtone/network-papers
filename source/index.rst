@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-欢迎来到复杂网络小组的入门论文列表。
+复杂网络小组———论文列表
 ==========================================
 
 .. toctree::
